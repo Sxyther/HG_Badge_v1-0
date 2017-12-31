@@ -1,3 +1,8 @@
+/*************************************************************************
+ * Hacker Garage Badge sketch v1.0
+ * Created by Pepe Ruiz @pp_ruiz https://github.com/Sxyther/HG_Badge_v1-0
+ * November, 2017
+*/
 
 /**********************/
 /* Global Definitions */
